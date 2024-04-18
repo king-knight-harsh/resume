@@ -92,6 +92,8 @@
 
 #### Tech stack - Flutter, FirebaseAuth, Firestore, and OpenAI
 
+##### [YouTube](https://www.youtube.com/watch?v=11lew5w7Lvs)
+
 - Developed Spare Spoon, a collaborative effort by a dynamic team of four during our university semester.
 - Redefined home cooking by suggesting recipes based on available ingredients, combating food waste, and introducing users to diverse culinary experiences.
 - Key features include secure authentication, OPEN AI integration, recipe customization, and more.
@@ -99,6 +101,8 @@
 ### **CO2BY**
 
 #### Tech stack - React, Express, Node, Bootstrap, AWS, Git
+
+##### [Devpost](https://devpost.com/software/co2by)
 
 - Developed CO2By, a project by a team of five students with diverse backgrounds during the Hackfrost 3.0 hackathon.
 - Aims to create a carbon capture technology that captures CO2 emissions from vehicles and transforms them into valuable commodities.
@@ -109,10 +113,12 @@
 
 #### Tech stack - React, Express, Node, Bootstrap, Heroku, Git
 
+##### [Website](https://king-knight-harsh.github.io/ment-nl/)
+
 - Developed TechFWD's hackathon project aimed at providing developers with a centralized platform for mentorship, educational programs, and open-source project contributions.
 - Completed the project over two days with a team of four members.
 
-## **🏆 CERTIFICATE**
+## **🏆 AWARDS**
 
 - Dean's List for the MUN Faculty of Science, 2020-2021
 - Dean's List for the MUN Faculty of Science, 2021-2022
