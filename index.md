@@ -9,7 +9,7 @@
 
 ### **Bachelor of Science (Honours) in Computer Science**
 
-#### <div style="display:flex;justify-content:space-between"><span>Memorial University of Newfoundland</span><span> Jan 2020 - Present</span></div>
+#### Memorial University of Newfoundland (Jan 2020 - Present)
 
 - Majoring in computer science
 - 87 average and 3.8 GPA
@@ -19,7 +19,7 @@
 
 ### **Meddai Medical Inc.**
 
-#### <div style="display:flex;justify-content:space-between"><span>Software Engineer</span><span>Sep 2023 - Present</span></div>
+#### Software Engineer (Sep 2023 - Present)
 
 - Architected scalable and reliable solutions using various technologies, including ViteJS, Express, TypeScript, React and Firebase.
 - Leveraged Python and Hugging Face technologies to develop machine learning models, optimizing platform efficiency.
@@ -28,7 +28,7 @@
 
 ### **Data and Image Analysis Group**
 
-#### <div style="display:flex;justify-content:space-between"><span>Software Engineering Research Assistant</span><span>May 2023 - Present</span></div>
+#### Software Engineering Research Assistant (May 2023 - Present)
 
 - Streamlined deployment processes by containerizing the WIMARS project using Docker and Terraform, resulting in a remarkable 70% improvement in deployment time.
 - Authored technical documentation outlining new deployment workflows, facilitating swift adaptation for developers and saving 1-2 hours of deployment time per instance.
@@ -37,7 +37,7 @@
 
 ### **MetaCrust Service Ltd.**
 
-#### <div style="display:flex;justify-content:space-between"><span>Cybersecurity Analyst</span><span>Jan 2024 - Apr 2024</span></div>
+#### Cybersecurity Analyst (Jan 2024 - Apr 2024)
 
 - Spearheaded the development of a robust risk assessment plan for IoT cybersecurity solutions, ensuring comprehensive coverage.
 - Conducted thorough risk analysis to identify vulnerabilities and potential threats in IoT systems.
@@ -47,7 +47,7 @@
 
 ### **Cadence Design System**
 
-#### <div style="display:flex;justify-content:space-between"><span>Software Engineering Intern</span><span>Jun 2022 - Aug 2023</span></div>
+#### Software Engineering Intern (Jun 2022 - Aug 2023)
 
 - Developed an RBAC (Role-Based Access Control) administrator portal for inspectAR, Cadence's Augmented Reality Toolkit for PCBs.
 - Streamlined organization and user management for IT/admin staff, facilitating efficient operations.
@@ -59,7 +59,7 @@
 
 ### **Data and Image Analysis Group**
 
-#### <div style="display:flex;justify-content:space-between"><span>Full Stack Developer</span><span>Dec 2021 - Dec 2022</span></div>
+#### Full Stack Developer (Dec 2021 - Dec 2022)
 
 - Orchestrated the deployment of the WIMARS website utilizing Django, Postgres, Nginx, and Gunicorn on an Ubuntu server, ensuring seamless functionality.
 - Conducted rigorous testing and debugging procedures using Redux DevTools and manual testing methodologies to enhance user experience and reliability.
@@ -68,7 +68,7 @@
 
 ### **Walmart Canada**
 
-#### <div style="display:flex;justify-content:space-between"><span>Customer Experience Salesfloor Associate</span><span>Dec 2021 - Dec 2022</span></div>
+#### Customer Experience Salesfloor Associate (Dec 2021 - Dec 2022)
 
 - Ensured that all operations within the Online Grocery Department ran smoothly, especially during peak hours, by maintaining the cleanliness of the work environment, preparing orders for pick-up, dispatching customer orders and answering calls promptly.
 - Fulfilled, answered, and assisted with daily 60-100 customer inquiries with a 100% customer satisfaction rate.
@@ -90,7 +90,7 @@
 
 ### **Spare Spoon**
 
-#### *Tech stack - Flutter, FirebaseAuth, Firestore, and OpenAI*
+#### Tech stack - Flutter, FirebaseAuth, Firestore, and OpenAI
 
 - Developed Spare Spoon, a collaborative effort by a dynamic team of four during our university semester.
 - Redefined home cooking by suggesting recipes based on available ingredients, combating food waste, and introducing users to diverse culinary experiences.
@@ -98,7 +98,7 @@
 
 ### **CO2BY**
 
-#### *Tech stack - React, Express, Node, Bootstrap, AWS, Git*
+#### Tech stack - React, Express, Node, Bootstrap, AWS, Git
 
 - Developed CO2By, a project by a team of five students with diverse backgrounds during the Hackfrost 3.0 hackathon.
 - Aims to create a carbon capture technology that captures CO2 emissions from vehicles and transforms them into valuable commodities.
@@ -107,7 +107,7 @@
 
 ### **MENT-NL**
 
-#### *Tech stack - React, Express, Node, Bootstrap, Heroku, Git*
+#### Tech stack - React, Express, Node, Bootstrap, Heroku, Git
 
 - Developed TechFWD's hackathon project aimed at providing developers with a centralized platform for mentorship, educational programs, and open-source project contributions.
 - Completed the project over two days with a team of four members.
