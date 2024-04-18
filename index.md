@@ -9,7 +9,7 @@
 
 ### **Bachelor of Science in Computer Science**
 
-#### Memorial University of Newfoundland (Jan 2020 - Present)
+#### Memorial University of Newfoundland | Jan 2020 - Present | St. John's, NL
 
 - Majoring in computer science
 - 87 average and 3.8 GPA
@@ -17,9 +17,9 @@
 
 ## **💻 EXPERIENCE**
 
-### **Meddai Medical Inc.**
+### **[Meddai Medical Inc.](https://www.meddai.ca/)**
 
-#### Software Engineer (Sep 2023 - Present)
+#### Software Engineer | Sep 2023 - Present | St. John's, NL
 
 - Architected scalable and reliable solutions using various technologies, including Vite, Express, TypeScript, React and Firebase.
 - Leveraged Python and Hugging Face technologies to develop machine learning models, optimizing platform efficiency.
@@ -28,7 +28,7 @@
 
 ### **[Data and Image Analysis Group](https://diaglab.cs.mun.ca/)**
 
-#### Software Engineering Research Assistant (May 2023 - Present)
+#### Software Engineering Research Assistant | May 2023 - Present | St. John's, NL
 
 - Streamlined deployment processes by containerizing the [WIMARS](https://wimars.from-ca.net/) project using Docker and Terraform, resulting in a remarkable 70% improvement in deployment time.
 - Authored technical documentation outlining new deployment workflows, facilitating swift adaptation for developers and saving 1-2 hours of deployment time per instance.
@@ -37,7 +37,7 @@
 
 ### **[MetaCrust Service Ltd.](https://www.metacrust.ca/)**
 
-#### Cybersecurity Analyst (Jan 2024 - Apr 2024)
+#### Cybersecurity Analyst | Jan 2024 - Apr 2024 | St. John's, NL
 
 - Spearheaded the development of a robust risk assessment plan for IoT cybersecurity solutions, ensuring comprehensive coverage.
 - Conducted thorough risk analysis to identify vulnerabilities and potential threats in IoT systems.
@@ -47,7 +47,7 @@
 
 ### **[Cadence Design System](https://www.cadence.com/)**
 
-#### Software Engineering Intern (Jun 2022 - Aug 2023)
+#### Software Engineering Intern | Jun 2022 - Aug 2023 | St. John's, NL
 
 - Developed an RBAC (Role-Based Access Control) administrator portal for inspectAR, Cadence's Augmented Reality Toolkit for PCBs.
 - Streamlined organization and user management for IT/admin staff, facilitating efficient operations.
@@ -59,7 +59,7 @@
 
 ### **[Data and Image Analysis Group](https://diaglab.cs.mun.ca/)**
 
-#### Full Stack Developer (Dec 2021 - Dec 2022)
+#### Full Stack Developer | Dec 2021 - Dec 2022 | St. John's, NL
 
 - Orchestrated the deployment of the WIMARS website utilizing Django, Postgres, Nginx, and Gunicorn on an Ubuntu server, ensuring seamless functionality.
 - Conducted rigorous testing and debugging procedures using Redux DevTools and manual testing methodologies to enhance user experience and reliability.
@@ -68,7 +68,7 @@
 
 ### **Walmart Canada**
 
-#### Customer Experience Salesfloor Associate (Dec 2021 - Dec 2022)
+#### Customer Experience Salesfloor Associate | Mar 2020 - Jun 2022 | St. John's, NL
 
 - Ensured that all operations within the Online Grocery Department ran smoothly, especially during peak hours, by maintaining the cleanliness of the work environment, preparing orders for pick-up, dispatching customer orders and answering calls promptly.
 - Fulfilled, answered, and assisted with daily 60-100 customer inquiries with a 100% customer satisfaction rate.
