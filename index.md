@@ -21,21 +21,21 @@
 
 #### Software Engineer (Sep 2023 - Present)
 
-- Architected scalable and reliable solutions using various technologies, including ViteJS, Express, TypeScript, React and Firebase.
+- Architected scalable and reliable solutions using various technologies, including Vite, Express, TypeScript, React and Firebase.
 - Leveraged Python and Hugging Face technologies to develop machine learning models, optimizing platform efficiency.
 - Spearheaded the development of a virtual doctor appointment booking platform, significantly enhancing medical professional accessibility.
 - Managed documentation to track project progress and specifications meticulously using Markdowns.
 
-### **Data and Image Analysis Group**
+### **[Data and Image Analysis Group](https://diaglab.cs.mun.ca/)**
 
 #### Software Engineering Research Assistant (May 2023 - Present)
 
-- Streamlined deployment processes by containerizing the WIMARS project using Docker and Terraform, resulting in a remarkable 70% improvement in deployment time.
+- Streamlined deployment processes by containerizing the [WIMARS](https://wimars.from-ca.net/) project using Docker and Terraform, resulting in a remarkable 70% improvement in deployment time.
 - Authored technical documentation outlining new deployment workflows, facilitating swift adaptation for developers and saving 1-2 hours of deployment time per instance.
-- Innovated an academy feature for the WIMARS website, enabling the efficient organization of training resources such as videos and documents for machine learning annotators and data labellers.
+- Innovated an academy feature for the [WIMARS](https://wimars.from-ca.net/) website, enabling the efficient organization of training resources such as videos and documents for machine learning annotators and data labellers.
 - Built a database query tool using Django, MaterialUI, React, Redux, and PostgreSQL to enable faster and easier user filtration.
 
-### **MetaCrust Service Ltd.**
+### **[MetaCrust Service Ltd.](https://www.metacrust.ca/)**
 
 #### Cybersecurity Analyst (Jan 2024 - Apr 2024)
 
@@ -45,7 +45,7 @@
 - Leveraged open-source intelligence (OSINT) tools and techniques, including the Google Hacking Database and Malware Bazaar, to enhance threat intelligence capabilities.
 - Contributed to enhancing cybersecurity protocols and procedures, promoting a proactive approach to cyber defence.
 
-### **Cadence Design System**
+### **[Cadence Design System](https://www.cadence.com/)**
 
 #### Software Engineering Intern (Jun 2022 - Aug 2023)
 
@@ -57,7 +57,7 @@
 - Debugged existing code to enhance overall customer experience and product performance.
 - Recognized with the "Pass with Distinction" award for exceptional contribution during internship tenure.
 
-### **Data and Image Analysis Group**
+### **[Data and Image Analysis Group](https://diaglab.cs.mun.ca/)**
 
 #### Full Stack Developer (Dec 2021 - Dec 2022)
 
