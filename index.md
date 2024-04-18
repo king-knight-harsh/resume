@@ -7,13 +7,13 @@
 
 ## **📚 EDUCATION**
 
-### **Bachelor of Science (Honours) in Computer Science**
+### **Bachelor of Science in Computer Science**
 
 #### Memorial University of Newfoundland (Jan 2020 - Present)
 
 - Majoring in computer science
 - 87 average and 3.8 GPA
-- Key courses:
+- Key courses: Computer Networks, Data Structures, Algorithms, Operating Systems, Software Engineering, Database Management Systems, Mobile Application Developer, Web Development, and Cybersecurity.
 
 ## **💻 EXPERIENCE**
 
