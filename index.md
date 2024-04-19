@@ -101,7 +101,7 @@
 
 ### **Tom's Maze Chase**
 
-#### Tech stack - ThreeJs and Vite | [YouTube](https://www.youtube.com/watch?v=26rO_-AhsxE)
+#### Tech stack - ThreeJs and Vite | [Website](https://project.hsharma.info)
 
 - Created "Tom's Maze Chase," a dynamic game where players control Tom, the cat, navigating mazes to catch Jerry and friends while evading Spike.
 - Implemented features like power-up tiles and character variety to enhance gameplay depth and strategic elements.
