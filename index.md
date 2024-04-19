@@ -21,19 +21,24 @@
 
 #### Software Engineer | Sep 2023 - Present | St. John's, NL
 
-- Architected scalable and reliable solutions using various technologies, including Vite, Express, TypeScript, React and Firebase.
+- Architected scalable and reliable solutions using various technologies, including Vite, Express, TypeScript, React, and Firebase.
 - Leveraged Python and Hugging Face technologies to develop machine learning models, optimizing platform efficiency.
 - Spearheaded the development of a virtual doctor appointment booking platform, significantly enhancing medical professional accessibility.
 - Managed documentation to track project progress and specifications meticulously using Markdowns.
+- Conducted code reviews and provided constructive feedback to enhance code quality and maintainability.
+- Managed a team of 5 students during the project, providing guidance, reviewing their code, and creating appropriate issues using JIRA to track tasks.
+- Conducted regular update meetings with the team to discuss progress, address any challenges, and ensure alignment with project goals.
 
 ### **[Data and Image Analysis Group](https://diaglab.cs.mun.ca/)**
 
 #### Software Engineering Research Assistant | May 2023 - Present | St. John's, NL
 
-- Streamlined deployment processes by containerizing the [WIMARS](https://wimars.from-ca.net/) project using Docker and Terraform, resulting in a remarkable 70% improvement in deployment time.
+- Streamlined deployment processes by containerizing the WIMARS project using Docker and Terraform, resulting in a remarkable 70% improvement in deployment time.
 - Authored technical documentation outlining new deployment workflows, facilitating swift adaptation for developers and saving 1-2 hours of deployment time per instance.
-- Innovated an academy feature for the [WIMARS](https://wimars.from-ca.net/) website, enabling the efficient organization of training resources such as videos and documents for machine learning annotators and data labellers.
+- Innovated an academy feature for the WIMARS website, enabling the efficient organization of training resources such as videos and documents for machine learning annotators and data labellers.
 - Built a database query tool using Django, MaterialUI, React, Redux, and PostgreSQL to enable faster and easier user filtration.
+- Assisted new hires in setting up the development environment on their local systems, familiarized them with the codebase, and provided support with any issues.
+- Contributed to new feature suggestions and performed code reviews to ensure adherence to best standards and practices.
 
 ### **[MetaCrust Service Ltd.](https://www.metacrust.ca/)**
 
@@ -49,13 +54,18 @@
 
 #### Software Engineering Intern | Jun 2022 - Aug 2023 | St. John's, NL
 
-- Developed an RBAC (Role-Based Access Control) administrator portal for inspectAR, Cadence's Augmented Reality Toolkit for PCBs.
-- Streamlined organization and user management for IT/admin staff, facilitating efficient operations.
-- Authored comprehensive documentation for rapid adoption by customers and developers, ensuring smooth integration and usage.
+- Spearheaded the entire RBAC (Role-Based Access Control) implementation for inspectAR, taking ownership from initial planning to deployment.
+  - Led the conceptualization, including creating mock-ups, mind maps for project changes, and setting project deadlines.
+  - Executed extensive modifications across the entire codebase, spanning both backend and frontend microservices.
+  - Developed automation scripts using bash to streamline the deployment process, ensuring seamless implementation of the RBAC system.
+  - Designed and updated the UI based on user feedback and suggestions, enhancing user experience.
+  - Wrote comprehensive test cases for backend functionalities, ensuring robustness and reliability.
+  - Produced user and developer-facing documentation for accelerated adoption.
+  - Conducted update meetings with customers during beta testing, gathering feedback and ensuring alignment with requirements.
 - Improved code efficiency by 40% through reduction of duplication and optimization of run-time complexity.
 - Conducted Quality Assurance on pre-production builds, proactively identifying critical issues prior to release.
 - Debugged existing code to enhance overall customer experience and product performance.
-- Recognized with the "Pass with Distinction" award for exceptional contribution during internship tenure.
+- Recognized with the **"Pass with Distinction"** award for exceptional contribution during internship tenure.
 
 ### **[Data and Image Analysis Group](https://diaglab.cs.mun.ca/)**
 
@@ -73,6 +83,7 @@
 - Ensured that all operations within the Online Grocery Department ran smoothly, especially during peak hours, by maintaining the cleanliness of the work environment, preparing orders for pick-up, dispatching customer orders and answering calls promptly.
 - Fulfilled, answered, and assisted with daily 60-100 customer inquiries with a 100% customer satisfaction rate.
 - Trained more than 15 new employees for their assigned locations, such as the sales floor, online grocery section and store standards.
+- Recognized as **"Shining Star"** for exceptional customer service and dedication to the team.
 
 ## **🌟 SKILLS**
 
@@ -88,14 +99,24 @@
 
 ## **📦 PROJECTS**
 
+### **Tom's Maze Chase**
+
+#### Tech stack - ThreeJs and Vite | [YouTube](https://www.youtube.com/watch?v=26rO_-AhsxE)
+
+- Created "Tom's Maze Chase," a dynamic game where players control Tom, the cat, navigating mazes to catch Jerry and friends while evading Spike.
+- Implemented features like power-up tiles and character variety to enhance gameplay depth and strategic elements.
+- Developed complex movement algorithms and pathfinding systems to simulate realistic character behaviors and interactions within the game world.
+- Utilized Three.js and JavaScript for UI and logic development, ensuring smooth rendering and immersive gameplay experience.
+- Designed a modular project structure with clear separation of concerns, facilitating code maintenance and scalability for future updates and enhancements.
+
 ### **Spare Spoon**
 
 #### Tech stack - Flutter, FirebaseAuth, Firestore, and OpenAI | [YouTube](https://www.youtube.com/watch?v=11lew5w7Lvs)
 
-- Contributed to the development of Spare Spoon, a mobile app designed to minimize food waste by recommending recipes based on existing kitchen ingredients, as part of a multi-disciplinary team.
-- Implements features such as user authentication, recipe customization, dietary preferences, and favorite recipe tracking to enhance user engagement and experience.
-- Integrates AI to regenerate recipe suggestions and tailor recommendations to user's dietary restrictions and allergies.
-- Aims to promote sustainable cooking practices by encouraging the use of all available food items and reducing unnecessary purchases.
+- Developed "Spare Spoon," an innovative app that suggests recipes based on available ingredients, reducing food waste and introducing users to diverse dishes.
+- Implemented authentication and data security features, including user authentication, password reset, and account deletion options, ensuring user privacy and protection.
+- Integrated OPEN AI for recipe suggestions, considering users' dietary preferences, intolerances, and allergies to provide personalized recommendations.
+- Included features like favorite recipes, user profile management, and recipe customization options to enhance user experience and personalization.
 
 ### **CO2BY**
 
@@ -113,6 +134,15 @@
 
 - Developed TechFWD's hackathon project aimed at providing developers with a centralized platform for mentorship, educational programs, and open-source project contributions.
 - Completed the project over two days with a team of four members.
+
+### **OneStopAgro**
+
+#### Tech stack - React, Express, Node, Bootstrap, Heroku, Git | [Devpost](https://devpost.com/software/one-stop-agro?ref_content=user-portfolio&ref_feature=in_progress)
+
+- Addressing the issue of hunger and hunger-related diseases, the project provides three key solutions: early disease detection of crops, a communication platform for farmers, and a marketplace for selling crops.
+- Accomplished all major project goals within a single day, demonstrating efficient teamwork and effective utilization of resources.
+- Developed a web application featuring a marketplace for farmers to sell food directly to consumers, a communication platform akin to Reddit for peer-to-peer discussions on farming, and a machine learning model for early disease detection in crops.
+- Empowered farmers by allowing them to upload pictures of crops for disease detection, providing remedies, and facilitating contact with relevant resources to address agricultural challenges.
 
 ## **🏆 AWARDS**
 
