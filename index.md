@@ -151,8 +151,13 @@
 - Dean's List for the MUN Faculty of Science, 2022-2023
 - Doctor William Boyle Scholarship 2023-2024
 
-## **🎓 CERTIFICATE**
+## **🥇 Notable Achievements in Technology**
+
+- 2nd price IEEE CTF 2024 - Memorial University of Newfoundland
+- Top 5 in the HackFrost 3.0 Hackathon - Memorial University of Newfoundland
+- Google Hash Code 2021 - All World Rank 2352
+
+## **📝 CERTIFICATE**
 
 - Google IT Support Professional Certificate, Coursera
 - Google IT Automation with Python Professional Certificate, Coursera
-- Google Hash Code 2021 - All World Rank 2352
