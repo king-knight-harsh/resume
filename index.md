@@ -87,15 +87,15 @@
 
 ## **🌟 SKILLS**
 
-- **Programming Languages:**    Go, JavaScript, Typescript, Python, C, Java, Bash
-- **Database Management:**      SQL, SQLite, PostgreSQL, MongoDB, GraphQL
-- **Data Visualization:**  Matplotlib, Seaborn, NumPy, Plotly, Jupiter, Pandas
-- **Web Development:**     WebFlow, Shopify, HTML, CSS, Sass, React, NodeJs, ExpressJs
-- **Operating System:**    Windows, Linux, MacOS
-- **Networking:**          Wireshark, Netstat, Nmap, Masscan
-- **Security:**            Burp Suite, OpenVAS, Metasploit, GoBuster, sqlMap, sublist3r, enum4linux
-- **DevOps:**              Docker, Terraform, Jira, Jenkins, CI/CD
-- **Cloud:**               EC2, Lambda, S3, RDS, DynamoDB, CloudFormation, IAM
+- **Programming Languages:** Go, JavaScript, Typescript, Python, C, Java, Bash
+- **Database Management:** SQL, SQLite, PostgreSQL, MongoDB, GraphQL
+- **Data Visualization:** Matplotlib, Seaborn, NumPy, Plotly, Jupiter, Pandas
+- **Web Development:** WebFlow, Shopify, HTML, CSS, Sass, React, NodeJs, ExpressJs
+- **Operating System:** Windows, Linux, MacOS
+- **Networking:** Wireshark, Netstat, Nmap, Masscan
+- **Security:** Burp Suite, OpenVAS, Metasploit, GoBuster, sqlMap, sublist3r, enum4linux
+- **DevOps:** Docker, Terraform, Jira, Jenkins, CI/CD
+- **Cloud:** EC2, Lambda, S3, RDS, DynamoDB, CloudFormation, IAM
 
 ## **📦 PROJECTS**
 
@@ -120,7 +120,7 @@
 
 ### **CO2BY**
 
-#### Tech stack - React, Express, Node, Bootstrap, AWS, Git | [Devpost](https://devpost.com/software/co2by)
+#### Tech stack - React, Express, Node, Bootstrap, DigitalOcean, Git | [Devpost](https://devpost.com/software/co2by)
 
 - Collaborated in a multidisciplinary team to develop CO2By, an innovative solution for capturing CO2 emissions from vehicles and transforming them into marketable capsules during Hackfrost 3.0 hackathon.
 - Spearheaded the integration of biochemical techniques and digital technologies to create a scalable device for carbon capture, directly reducing environmental impact.
@@ -137,12 +137,22 @@
 
 ### **OneStopAgro**
 
-#### Tech stack - React, Express, Node, Bootstrap, Heroku, Git | [Devpost](https://devpost.com/software/one-stop-agro?ref_content=user-portfolio&ref_feature=in_progress)
+#### Tech stack - React, Express, Node, Bootstrap, AWS EC2, Git | [Devpost](https://devpost.com/software/one-stop-agro)
 
 - Addressing the issue of hunger and hunger-related diseases, the project provides three key solutions: early disease detection of crops, a communication platform for farmers, and a marketplace for selling crops.
 - Accomplished all major project goals within a single day, demonstrating efficient teamwork and effective utilization of resources.
 - Developed a web application featuring a marketplace for farmers to sell food directly to consumers, a communication platform akin to Reddit for peer-to-peer discussions on farming, and a machine learning model for early disease detection in crops.
 - Empowered farmers by allowing them to upload pictures of crops for disease detection, providing remedies, and facilitating contact with relevant resources to address agricultural challenges.
+
+### **The Game of Focus**
+
+#### Tech stack - Java, JavaSwing, Java Serialization | [Youtube](https://www.youtube.com/watch?v=5F1bvY3h36s)
+
+- Developed a computerized version of "Domination," incorporating a save-and-load feature that allows players to resume the game at any point.
+- Implemented a single-player mode with AI opponents, offering two different difficulty settings for varying skill levels.
+- Introduced three different color options to enhance accessibility, catering to players with color blindness.
+- Ensured a user-friendly interface, facilitating smooth gameplay and easy navigation for players of all ages and experience levels.
+- Incorporated strategic gameplay elements that encourage tactical planning and competition, keeping players engaged and focused.
 
 ## **🏆 AWARDS**
 
