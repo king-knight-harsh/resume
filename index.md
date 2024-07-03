@@ -159,6 +159,7 @@
 - Dean's List for the MUN Faculty of Science, 2020-2021
 - Dean's List for the MUN Faculty of Science, 2021-2022
 - Dean's List for the MUN Faculty of Science, 2022-2023
+- Dean's List for the MUN Faculty of Science, 2023-2024
 - Doctor William Boyle Scholarship 2023-2024
 
 ## **🥇 Notable Achievements in Technology**
@@ -171,3 +172,4 @@
 
 - Google IT Support Professional Certificate, Coursera
 - Google IT Automation with Python Professional Certificate, Coursera
+- AWS Certified Cloud Practitioner, Foundational Certificate, Amazon Web Services
