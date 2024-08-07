@@ -12,78 +12,78 @@
 #### Memorial University of Newfoundland | Jan 2020 - Present | St. John's, NL
 
 - Majoring in computer science
-- 87 average and 3.8 GPA
-- Key courses: Computer Networks, Data Structures, Algorithms, Operating Systems, Software Engineering, Database Management Systems, Mobile Application Developer, Web Development, and Cybersecurity.
+- Cumulative Average 87.5%
+- Key courses: Computer Networks, Data Structures, Algorithms, Operating Systems, Software Engineering, Data Analysis, Data Mining, Data Visualization, Database Management Systems, Mobile Application Developer, Web Development, and Cybersecurity.
 
 ## **💻 EXPERIENCE**
-
-### **[Meddai Medical Inc.](https://www.meddai.ca/)**
-
-#### Software Engineer | Sep 2023 - Present | St. John's, NL
-
-- Architected scalable and reliable solutions using various technologies, including Vite, Express, TypeScript, React, and Firebase.
-- Leveraged Python and Hugging Face technologies to develop machine learning models, optimizing platform efficiency.
-- Spearheaded the development of a virtual doctor appointment booking platform, significantly enhancing medical professional accessibility.
-- Managed documentation to track project progress and specifications meticulously using Markdowns.
-- Conducted code reviews and provided constructive feedback to enhance code quality and maintainability.
-- Managed a team of 5 students during the project, providing guidance, reviewing their code, and creating appropriate issues using JIRA to track tasks.
-- Conducted regular update meetings with the team to discuss progress, address any challenges, and ensure alignment with project goals.
 
 ### **[Data and Image Analysis Group](https://diaglab.cs.mun.ca/)**
 
 #### Software Engineering Research Assistant | May 2023 - Present | St. John's, NL
 
-- Streamlined deployment processes by containerizing the WIMARS project using Docker and Terraform, resulting in a remarkable 70% improvement in deployment time.
-- Authored technical documentation outlining new deployment workflows, facilitating swift adaptation for developers and saving 1-2 hours of deployment time per instance.
-- Innovated an academy feature for the WIMARS website, enabling the efficient organization of training resources such as videos and documents for machine learning annotators and data labellers.
-- Built a database query tool using Django, MaterialUI, React, Redux, and PostgreSQL to enable faster and easier user filtration.
-- Assisted new hires in setting up the development environment on their local systems, familiarized them with the codebase, and provided support with any issues.
-- Contributed to new feature suggestions and performed code reviews to ensure adherence to best standards and practices.
+- **Optimized Deployment**: Streamlined the WIMARS project deployment by containerizing it with Docker and Terraform and implementing auto-deployment using GitLab CI/CD, achieving a 70% reduction in deployment time.
+- **Academy Feature Development**: Created an academy feature for the WIMARS website to efficiently organize training resources, utilizing RClone, AWS Lambda, AWS MediaConvert, AWS CloudTrail, AWS CloudWatch, ReactJs, MaterialUI, and Django.
+- **Advanced Query Tool**: Developed an advanced database query tool using Django, MaterialUI, React, Redux, and PostgreSQL, improving user filtration speed and ease.
+- **Enhanced Security**: Fixed critical Cross Site Scripting (XSS) vulnerabilities in the WIMARS website, enhancing security and safeguarding user data through data sanitization.
+- **Onboarding Support**: Assisted new hires in setting up their development environments, familiarizing them with the codebase, and providing ongoing support for any issues.
+- **Feature Suggestions and Code Reviews**: Contributed to feature suggestions and performed code reviews to ensure adherence to best practices and standards.
+
+### **[Meddai Medical Inc.](https://www.meddai.ca/)**
+
+#### Software Engineer | Sep 2023 - June 2024 | St. John's, NL
+
+- **Virtual Appointment Platform**: Led the development of a virtual doctor appointment booking platform, significantly enhancing medical professional accessibility using ReactJs, Antd, TypeScript, Vite, Express, AWS DocumentDB, AWS Fargate, AWS Route 53, and AWS Certificate Manager.
+- **Website Deployment**: Successfully deployed a new website utilizing AWS S3 for site hosting, AWS Route 53 for DNS management, and AWS Certificate Manager for secure communications, ensuring a seamless user experience.
+- **3D Modeling for Medical Device**: Contributed to the development of a 3D model for a breast cancer detection device using Elegoo Neptune 2 and Blender.
+- **Documentation Management**: Meticulously tracked project progress and specifications using Markdown, ensuring clear and comprehensive documentation.
+- **Code Quality and Maintenance**: Conducted code reviews and provided constructive feedback, enhancing code quality and maintainability.
+- **Team Leadership**: Managed a team of 5 students, providing guidance, reviewing their code, and creating and tracking issues using JIRA.
+- **Project Coordination**: Held regular update meetings to discuss progress, address challenges, and ensure alignment with project goals.
 
 ### **[MetaCrust Service Ltd.](https://www.metacrust.ca/)**
 
 #### Cybersecurity Analyst | Jan 2024 - Apr 2024 | St. John's, NL
 
-- Spearheaded the development of a robust risk assessment plan for IoT cybersecurity solutions, ensuring comprehensive coverage.
-- Conducted thorough risk analysis to identify vulnerabilities and potential threats in IoT systems.
-- Implemented mitigation strategies to fortify the security infrastructure of IoT environments, safeguarding against cyber threats.
-- Leveraged open-source intelligence (OSINT) tools and techniques, including the Google Hacking Database and Malware Bazaar, to enhance threat intelligence capabilities.
-- Contributed to enhancing cybersecurity protocols and procedures, promoting a proactive approach to cyber defence.
+- **Risk Assessment Plan Development**: Spearheaded the creation of a robust risk assessment plan for IoT cybersecurity solutions, ensuring comprehensive coverage using the Common Vulnerability Scoring System (CVSS).
+- **Vulnerability and Threat Identification**: Conducted thorough risk analysis to identify vulnerabilities and potential threats in IoT systems, enhancing overall security awareness.
+- **Mitigation Strategy Implementation**: Developed and implemented mitigation strategies to fortify IoT security infrastructure, safeguarding against cyber threats.
+- **Enhanced Threat Intelligence**: Leveraged open-source intelligence (OSINT) tools and techniques, including the Google Hacking Database, Malware Bazaar, Nmap, and OpenVAS, to enhance threat intelligence capabilities.
+- **Cybersecurity Protocol Enhancement**: Contributed to the enhancement of cybersecurity protocols and procedures, promoting a proactive approach to cyber defense.
 
 ### **[Cadence Design System](https://www.cadence.com/)**
 
 #### Software Engineering Intern | Jun 2022 - Aug 2023 | St. John's, NL
 
-- Spearheaded the entire RBAC (Role-Based Access Control) implementation for inspectAR, taking ownership from initial planning to deployment.
-  - Led the conceptualization, including creating mock-ups, mind maps for project changes, and setting project deadlines.
-  - Executed extensive modifications across the entire codebase, spanning both backend and frontend microservices.
-  - Developed automation scripts using bash to streamline the deployment process, ensuring seamless implementation of the RBAC system.
-  - Designed and updated the UI based on user feedback and suggestions, enhancing user experience.
-  - Wrote comprehensive test cases for backend functionalities, ensuring robustness and reliability.
-  - Produced user and developer-facing documentation for accelerated adoption.
-  - Conducted update meetings with customers during beta testing, gathering feedback and ensuring alignment with requirements.
-- Improved code efficiency by 40% through reduction of duplication and optimization of run-time complexity.
-- Conducted Quality Assurance on pre-production builds, proactively identifying critical issues prior to release.
-- Debugged existing code to enhance overall customer experience and product performance.
-- Recognized with the **"Pass with Distinction"** award for exceptional contribution during internship tenure.
+- **RBAC Implementation**: Spearheaded the entire RBAC (Role-Based Access Control) implementation for inspectAR, overseeing the project from initial planning to deployment.
+  - **Conceptualization**: Led the creation of mock-ups, mind maps for project changes, and set project deadlines using Figma, Spreadsheets, and Worddocx.
+  - **Codebase Modifications**: Executed extensive modifications across backend and frontend microservices using Golang, KeyCloak, GoHTML, C#, ReactJS, TypeScript, and Vite.
+  - **Automation Scripts**: Developed automation scripts with Bash and Terraform to streamline the deployment process, ensuring seamless RBAC system implementation.
+  - **UI Design**: Designed and updated the user interface based on user feedback, enhancing the overall user experience.
+  - **Test Case Development**: Wrote comprehensive test cases for backend functionalities using Golang and Qase, ensuring robustness and reliability.
+  - **Documentation**: Produced detailed user and developer-facing documentation to facilitate accelerated adoption.
+  - **Customer Feedback**: Conducted update meetings with customers during beta testing, gathering feedback and ensuring alignment with requirements.
+- **Code Efficiency Improvemen**: Enhanced code efficiency by 40% through the reduction of duplication and optimization of run-time complexity.
+- **Quality Assurance**: Conducted quality assurance on pre-production builds, proactively identifying critical issues before release.
+- **Debugging**: Debugged existing code to enhance overall customer experience and product performance.
+- **Recognition**: Awarded the **"Pass with Distinction"** for exceptional contribution during the internship tenure.
 
 ### **[Data and Image Analysis Group](https://diaglab.cs.mun.ca/)**
 
 #### Full Stack Developer | Dec 2021 - Dec 2022 | St. John's, NL
 
-- Orchestrated the deployment of the WIMARS website utilizing Django, Postgres, Nginx, and Gunicorn on an Ubuntu server, ensuring seamless functionality.
-- Conducted rigorous testing and debugging procedures using Redux DevTools and manual testing methodologies to enhance user experience and reliability.
-- Implemented a structured codebase adhering to the MVC (Model-View-Controller) architecture, optimizing code organization and maintainability.
-- Documented tasks and project progress using SharePoint's PowerPoint and Word documentation tools, facilitating efficient knowledge sharing and adaptation among team members.
+- **WIMARS Website Deployment**: Orchestrated the deployment of the WIMARS website using Django, Postgres, Nginx, and Gunicorn on an Ubuntu server, ensuring seamless functionality.
+- **Testing and Debugging**: Conducted rigorous testing and debugging procedures using Redux DevTools and manual testing methodologies to enhance user experience and reliability.
+- **Codebase Structuring**: Implemented a structured codebase adhering to the MVC (Model-View-Controller) architecture, optimizing code organization and maintainability.
+- **Documentation**: Documented tasks and project progress using SharePoint's PowerPoint and Word documentation tools, facilitating efficient knowledge sharing and adaptation among team members.
 
 ### **Walmart Canada**
 
 #### Customer Experience Salesfloor Associate | Mar 2020 - Jun 2022 | St. John's, NL
 
-- Ensured that all operations within the Online Grocery Department ran smoothly, especially during peak hours, by maintaining the cleanliness of the work environment, preparing orders for pick-up, dispatching customer orders and answering calls promptly.
-- Fulfilled, answered, and assisted with daily 60-100 customer inquiries with a 100% customer satisfaction rate.
-- Trained more than 15 new employees for their assigned locations, such as the sales floor, online grocery section and store standards.
-- Recognized as **"Shining Star"** for exceptional customer service and dedication to the team.
+- **Online Grocery Department Operations**: Ensured smooth operations within the Online Grocery Department during peak hours by maintaining a clean work environment, preparing orders for pick-up, dispatching customer orders, and answering calls promptly.
+- **Customer Service Excellence**: Handled 60-100 daily customer inquiries, achieving a 100% customer satisfaction rate.
+- **Employee Training**: Trained over 15 new employees for various locations, including the sales floor, online grocery section, and store standards.
+- **Recognition**: Awarded **"Shining Star"** for exceptional customer service and dedication to the team.
 
 ## **🌟 SKILLS**
 
@@ -160,6 +160,7 @@
 - Dean's List for the MUN Faculty of Science, 2021-2022
 - Dean's List for the MUN Faculty of Science, 2022-2023
 - Dean's List for the MUN Faculty of Science, 2023-2024
+- Lou Visentin Award 2023-2024
 - Doctor William Boyle Scholarship 2023-2024
 
 ## **🥇 Notable Achievements in Technology**
@@ -173,3 +174,4 @@
 - Google IT Support Professional Certificate, Coursera
 - Google IT Automation with Python Professional Certificate, Coursera
 - AWS Certified Cloud Practitioner, Foundational Certificate, Amazon Web Services
+- AWS Certified Solutions Architect - Associate, Amazon Web Services
