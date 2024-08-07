@@ -160,8 +160,8 @@
 - Dean's List for the MUN Faculty of Science, 2021-2022
 - Dean's List for the MUN Faculty of Science, 2022-2023
 - Dean's List for the MUN Faculty of Science, 2023-2024
-- Lou Visentin Award 2023-2024
 - Doctor William Boyle Scholarship 2023-2024
+- Lou Visentin Award 2023-2024
 
 ## **🥇 Notable Achievements in Technology**
 
